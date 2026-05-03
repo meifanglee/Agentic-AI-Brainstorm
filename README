@@ -1,0 +1,17 @@
+agentic-ai-rollout/
+├─ README.md
+├─ one-pager.html
+├─ one-pager.md
+├─ rollout-plan.yaml
+├─ tasks.csv
+├─ slides/
+│  ├─ AgenticAI_Pitch.pptx
+│  └─ AgenticAI_Pitch_Notes.md
+├─ artifacts/
+│  ├─ governance-policy.pdf
+│  ├─ security-checklist.xlsx
+│  └─ pilot-specs/
+└─ docs/
+   ├─ vendor-matrix.md
+   ├─ cost-model.xlsx
+   └─ raci.md
